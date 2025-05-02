@@ -1,0 +1,28 @@
+# Ignore ALL files by default
+*
+!*/
+
+# Whitelist only these files
+!.gitignore
+!LICENSE
+!README.md
+
+# Specifically ignore common FiveM/development files
+.fxmanifest
+*.lua
+*.js
+*.html
+*.css
+*.webp
+*.mp4
+*.json
+*.log
+*.tmp
+
+# Ignore OS/editor files
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+__pycache__/
+node_modules/
