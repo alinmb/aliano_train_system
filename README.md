@@ -84,7 +84,7 @@ This resource is provided as-is. Modification and redistribution permitted with 
 ---
 
 **Created by Aliano**  
-_Need help? Contact me on -> In coming_
+_Need help? Contact me on [Discord](https://discord.gg/Jcuramxw)
 
 ## Purchase
 
