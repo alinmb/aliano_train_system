@@ -89,7 +89,7 @@ _Need help? Contact me on [Discord](https://discord.gg/Jcuramxw)
 ## Purchase
 
 Available for purchase on my Tebex store:  
-[Download on Tebex](https://anmd-gaming.tebex.io/package/aliano-train-script)
+[Download on Tebex](https://shorturl.at/lrZN8)
 
 ## Preview (click on the image)
 
